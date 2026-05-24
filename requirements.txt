@@ -1,0 +1,14 @@
+RealtimeSTT        
+openwakeword     
+kokoro         
+sounddevice       
+soundfile          
+langgraph            
+langchain            
+langchain-ollama     
+langchain-community  
+duckduckgo-search 
+httpx            
+mcp                 
+python-dotenv        
+pydantic             
